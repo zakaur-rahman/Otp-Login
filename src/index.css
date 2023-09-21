@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-text: "SF Pro Text";
+  --font-work-sans: "Work Sans";
+
+  /* font sizes */
+  --font-size-xs: 0.75rem;
+  --font-size-base: 1rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #000;
+  --color-darkgray: #999;
+}
+
